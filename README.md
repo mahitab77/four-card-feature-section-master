@@ -1,7 +1,8 @@
 
 # four-card-feature-section-master
 
-![image](https://github.com/mahitab77/four-card-feature-section-master/assets/56124273/c7811736-0428-480a-82e8-865f876588e0)
+![image](https://github.com/mahitab77/four-card-feature-section-master/assets/56124273/4061c253-2886-44d7-908b-526b335ed15b)
+
 
 ## Deploying project
 you can view the website on vercel : https://four-card-feature-section-master-seven-mu.vercel.app/
